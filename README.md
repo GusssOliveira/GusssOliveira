@@ -42,10 +42,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/gustavodalostoo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gustavodalostoo&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gustavodalostoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
